@@ -1,3 +1,6 @@
+[![English](https://img.shields.io/badge/EN-English-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yses9296/yses9296/blob/main/README.md)
+[![Korean](https://img.shields.io/badge/KR-한국어-1D4ED8?style=for-the-badge&logo=googletranslate&logoColor=white)](https://github.com/yses9296/yses9296/blob/main/README.ko.md)
+
 # Eunseo Choi
  
 [![Email](https://img.shields.io/badge/Email-yses9296@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yses9296@naver.com)
