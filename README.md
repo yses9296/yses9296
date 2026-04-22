@@ -1,4 +1,4 @@
-# Eunseo Choi (Wendy)
+# Eunseo Choi
  
 [![Email](https://img.shields.io/badge/Email-yses9296@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yses9296@naver.com)
 [![Blog](https://img.shields.io/badge/Blog-yses9296.tistory.com-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://yses9296.tistory.com)
