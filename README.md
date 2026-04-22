@@ -12,6 +12,7 @@ Currently at GBikeCo, Seoul.
 - Optimize **User Experience (UX)** along with **Developer Experience (DX)**
 - Improve functionality and implement new features based on user feedback
 - Service testing and performance optimization for effective user experience
+- Before jumping to implementation, always ask **why** the feature is needed and **what user problem** it solves
 
 ---
 
